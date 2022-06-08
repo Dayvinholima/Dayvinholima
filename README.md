@@ -1,7 +1,7 @@
 Olá, Meu nome é Dayvson Lima e esse é o meu perfil do GitHub e nele ficará registrado minha evolução dentro da programação.  
 
 - 🌱 Estudante de Análise e Desenvolvimento de Sistema FBV Faculdade de Boa Viagem - Recife-Pe
-- 🌱 Aluna da SoulCode Academy no Curso de Java Full Stack 
+- 🌱 Aluno da SoulCode Academy no Curso de Java Full Stack 
 - 🥋 Atleta de Jiu-Jtsu Gracie Barra - Ibura - Recife-Pe 🟦🟦⬛⬛⬛⬜⬜⬛🟦 BlueBlet
 
 
